@@ -19,7 +19,7 @@
       <guid>https://Anvil-Late.github.io/Portfolio/post/project-2/</guid>
       <description>A machine learning project in which I used fitbit-like sensor data from gyroscopes and accelerometers to predict the performance of a weightlifting exercise.
 This project goes through the following key steps :
- Raw Data gathering and cleaning Model building - RandomForest Cross validation and Testing    Link to the GitHub repository</description>
+ Raw Data gathering and cleaning Model building - RandomForest Cross validation and Testing  Link to the GitHub repository</description>
     </item>
     
   </channel>

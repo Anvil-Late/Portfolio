@@ -19,7 +19,7 @@
       <guid>https://Anvil-Late.github.io/Portfolio/post/project-3/</guid>
       <description>This is a quick project I made to familiarize myself with building shiny apps, especially :
  Using background plots to display on the UI Having reactive variables displayed on the plot Handling null inputs and error outputs on the UI display  I used ggplot to create the background graphs.
-  Link to the App
+Link to the App
 Link to the GitHub repository</description>
     </item>
     
