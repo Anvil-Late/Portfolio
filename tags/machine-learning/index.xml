@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Antoine VILLATTE</title>
+    <link>https://Anvil-Late.github.io/Portfolio/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Antoine VILLATTE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://Anvil-Late.github.io/Portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 2 : Weightlifting performance machine learning</title>
+      <link>https://Anvil-Late.github.io/Portfolio/post/project-2/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/post/project-2/</guid>
+      <description>A machine learning project in which I used fitbit-like sensor data from gyroscopes and accelerometers to predict the performance of a weightlifting exercise.
+This project goes through the following key steps :
+ Raw Data gathering and cleaning Model building - RandomForest Cross validation and Testing    Link to the GitHub repository</description>
+    </item>
+    
+  </channel>
+</rss>

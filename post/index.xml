@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Antoine VILLATTE</title>
+    <link>https://Anvil-Late.github.io/Portfolio/post/</link>
+    <description>Recent content in Projects on Antoine VILLATTE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://Anvil-Late.github.io/Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1 : Next Word Predictor</title>
+      <link>https://Anvil-Late.github.io/Portfolio/post/project-1/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/post/project-1/</guid>
+      <description>In this project, my goal was to familiarize myself with natural language processing and use it to build a &amp;ldquo;next word&amp;rdquo; predictive model such as the ones we have on our smartphones keyboards. For that, I used a database provided by SwiftKey.
+I divided this project into three parts : the App (hosted on ShinyApps), the project pitch (hosted on RPubs), and the GitHub repository that contains the App&amp;rsquo;s code.</description>
+    </item>
+    
+    <item>
+      <title>Project 2 : Weightlifting performance machine learning</title>
+      <link>https://Anvil-Late.github.io/Portfolio/post/project-2/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/post/project-2/</guid>
+      <description>A machine learning project in which I used fitbit-like sensor data from gyroscopes and accelerometers to predict the performance of a weightlifting exercise.
+This project goes through the following key steps :
+ Raw Data gathering and cleaning Model building - RandomForest Cross validation and Testing    Link to the GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Project 3 - BMI Calculator App</title>
+      <link>https://Anvil-Late.github.io/Portfolio/post/project-3/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/post/project-3/</guid>
+      <description>This is a quick project I made to familiarize myself with building shiny apps, especially :
+ Using background plots to display on the UI Having reactive variables displayed on the plot Handling null inputs and error outputs on the UI display  I used ggplot to create the background graphs.
+  Link to the App
+Link to the GitHub repository</description>
+    </item>
+    
+  </channel>
+</rss>
