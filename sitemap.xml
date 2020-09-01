@@ -17,7 +17,7 @@
   </url>
   
   <url>
-    <loc>https://Anvil-Late.github.io/Portfolio/post/project-1/</loc>
+    <loc>https://Anvil-Late.github.io/Portfolio/post/project-4/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -38,14 +38,14 @@
   </url>
   
   <url>
-    <loc>https://Anvil-Late.github.io/Portfolio/post/project-2/</loc>
+    <loc>https://Anvil-Late.github.io/Portfolio/post/project-3/</loc>
     <lastmod>2020-08-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://Anvil-Late.github.io/Portfolio/post/project-3/</loc>
+    <loc>https://Anvil-Late.github.io/Portfolio/post/project-2/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -54,6 +54,27 @@
   <url>
     <loc>https://Anvil-Late.github.io/Portfolio/tags/shiny-apps/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Anvil-Late.github.io/Portfolio/tags/leaflet/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Anvil-Late.github.io/Portfolio/tags/plotly/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Anvil-Late.github.io/Portfolio/post/project-1/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

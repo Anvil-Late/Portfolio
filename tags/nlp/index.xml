@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>Project 1 : Next Word Predictor</title>
-      <link>https://Anvil-Late.github.io/Portfolio/post/project-1/</link>
+      <title>Project 4 : Next Word Predictor</title>
+      <link>https://Anvil-Late.github.io/Portfolio/post/project-4/</link>
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://Anvil-Late.github.io/Portfolio/post/project-1/</guid>
+      <guid>https://Anvil-Late.github.io/Portfolio/post/project-4/</guid>
       <description>In this project, my goal was to familiarize myself with natural language processing and use it to build a &amp;ldquo;next word&amp;rdquo; predictive model such as the ones we have on our smartphones keyboards. For that, I used a database provided by SwiftKey.
 I divided this project into three parts : the App (hosted on ShinyApps), the project pitch (hosted on RPubs), and the GitHub repository that contains the App&amp;rsquo;s code.</description>
     </item>

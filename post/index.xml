@@ -12,36 +12,47 @@
     
     
     <item>
-      <title>Project 1 : Next Word Predictor</title>
-      <link>https://Anvil-Late.github.io/Portfolio/post/project-1/</link>
+      <title>Project 4 : Next Word Predictor</title>
+      <link>https://Anvil-Late.github.io/Portfolio/post/project-4/</link>
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://Anvil-Late.github.io/Portfolio/post/project-1/</guid>
+      <guid>https://Anvil-Late.github.io/Portfolio/post/project-4/</guid>
       <description>In this project, my goal was to familiarize myself with natural language processing and use it to build a &amp;ldquo;next word&amp;rdquo; predictive model such as the ones we have on our smartphones keyboards. For that, I used a database provided by SwiftKey.
 I divided this project into three parts : the App (hosted on ShinyApps), the project pitch (hosted on RPubs), and the GitHub repository that contains the App&amp;rsquo;s code.</description>
     </item>
     
     <item>
-      <title>Project 2 : Weightlifting performance machine learning</title>
-      <link>https://Anvil-Late.github.io/Portfolio/post/project-2/</link>
+      <title>Project 3 : Weightlifting performance machine learning</title>
+      <link>https://Anvil-Late.github.io/Portfolio/post/project-3/</link>
       <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://Anvil-Late.github.io/Portfolio/post/project-2/</guid>
+      <guid>https://Anvil-Late.github.io/Portfolio/post/project-3/</guid>
       <description>A machine learning project in which I used fitbit-like sensor data from gyroscopes and accelerometers to predict the performance of a weightlifting exercise.
 This project goes through the following key steps :
  Raw Data gathering and cleaning Model building - RandomForest Cross validation and Testing  Link to the GitHub repository</description>
     </item>
     
     <item>
-      <title>Project 3 - BMI Calculator App</title>
-      <link>https://Anvil-Late.github.io/Portfolio/post/project-3/</link>
+      <title>Project 2 - BMI Calculator App</title>
+      <link>https://Anvil-Late.github.io/Portfolio/post/project-2/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://Anvil-Late.github.io/Portfolio/post/project-3/</guid>
+      <guid>https://Anvil-Late.github.io/Portfolio/post/project-2/</guid>
       <description>This is a quick project I made to familiarize myself with building shiny apps, especially :
  Using background plots to display on the UI Having reactive variables displayed on the plot Handling null inputs and error outputs on the UI display  I used ggplot to create the background graphs.
 Link to the App
 Link to the GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1 - Interactive maps</title>
+      <link>https://Anvil-Late.github.io/Portfolio/post/project-1/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/post/project-1/</guid>
+      <description>Here, I built two interactive maps to familiarize myself with the leaflet and plotly packages to make data products and presentations :
+Link to an interactive GDP world map made with plotly
+Link to an interactive map of France and its top 10 cities made with leaflet</description>
     </item>
     
   </channel>
