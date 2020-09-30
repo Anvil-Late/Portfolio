@@ -6,10 +6,73 @@
     <description>Recent content in Tags on Antoine VILLATTE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://Anvil-Late.github.io/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Elastinet</title>
+      <link>https://Anvil-Late.github.io/Portfolio/tags/elastinet/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/tags/elastinet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lasso</title>
+      <link>https://Anvil-Late.github.io/Portfolio/tags/lasso/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/tags/lasso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://Anvil-Late.github.io/Portfolio/tags/machine-learning/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression</title>
+      <link>https://Anvil-Late.github.io/Portfolio/tags/regression/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ridge</title>
+      <link>https://Anvil-Late.github.io/Portfolio/tags/ridge/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/tags/ridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SVM</title>
+      <link>https://Anvil-Late.github.io/Portfolio/tags/svm/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/tags/svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XGBoost</title>
+      <link>https://Anvil-Late.github.io/Portfolio/tags/xgboost/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/tags/xgboost/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>NLP</title>
@@ -17,15 +80,6 @@
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://Anvil-Late.github.io/Portfolio/tags/nlp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://Anvil-Late.github.io/Portfolio/tags/machine-learning/</link>
-      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://Anvil-Late.github.io/Portfolio/tags/machine-learning/</guid>
       <description></description>
     </item>
     

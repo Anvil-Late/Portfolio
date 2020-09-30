@@ -4,7 +4,70 @@
   
   <url>
     <loc>https://Anvil-Late.github.io/Portfolio/</loc>
-    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Anvil-Late.github.io/Portfolio/tags/elastinet/</loc>
+    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Anvil-Late.github.io/Portfolio/tags/lasso/</loc>
+    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Anvil-Late.github.io/Portfolio/tags/machine-learning/</loc>
+    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Anvil-Late.github.io/Portfolio/post/project-5/</loc>
+    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Anvil-Late.github.io/Portfolio/tags/regression/</loc>
+    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Anvil-Late.github.io/Portfolio/tags/ridge/</loc>
+    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Anvil-Late.github.io/Portfolio/tags/svm/</loc>
+    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Anvil-Late.github.io/Portfolio/tags/</loc>
+    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Anvil-Late.github.io/Portfolio/tags/xgboost/</loc>
+    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -19,20 +82,6 @@
   <url>
     <loc>https://Anvil-Late.github.io/Portfolio/post/project-4/</loc>
     <lastmod>2020-08-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://Anvil-Late.github.io/Portfolio/tags/</loc>
-    <lastmod>2020-08-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://Anvil-Late.github.io/Portfolio/tags/machine-learning/</loc>
-    <lastmod>2020-08-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
