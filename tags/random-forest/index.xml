@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SVM on Antoine VILLATTE</title>
-    <link>https://Anvil-Late.github.io/Portfolio/tags/svm/</link>
-    <description>Recent content in SVM on Antoine VILLATTE</description>
+    <title>Random Forest on Antoine VILLATTE</title>
+    <link>https://Anvil-Late.github.io/Portfolio/tags/random-forest/</link>
+    <description>Recent content in Random Forest on Antoine VILLATTE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://Anvil-Late.github.io/Portfolio/tags/svm/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://Anvil-Late.github.io/Portfolio/tags/random-forest/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,13 +22,14 @@ All of these tweets have been detected based on keywords such as &amp;ldquo;abla
     </item>
     
     <item>
-      <title>Project 5 : House Price Prediction</title>
-      <link>https://Anvil-Late.github.io/Portfolio/post/project-5/</link>
-      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Project 3 : Weightlifting performance machine learning</title>
+      <link>https://Anvil-Late.github.io/Portfolio/post/project-3/</link>
+      <pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://Anvil-Late.github.io/Portfolio/post/project-5/</guid>
-      <description>In this project, my goal was to build a predictive model to answer the House Prices Kaggle Competition, in which we are provided with diverse data concerning houses such as quality, number of bathrooms, areas, in order to predict the final sale price.
-The large majority of the work was spent on exploratory data analysis and feature engineering, with some data cleaning to do in both the training and test set.</description>
+      <guid>https://Anvil-Late.github.io/Portfolio/post/project-3/</guid>
+      <description>A machine learning project in which I used fitbit-like sensor data from gyroscopes and accelerometers to predict the performance of a weightlifting exercise.
+This project goes through the following key steps :
+ Raw Data gathering and cleaning Model building - RandomForest Cross validation and Testing  Link to the GitHub repository</description>
     </item>
     
   </channel>
