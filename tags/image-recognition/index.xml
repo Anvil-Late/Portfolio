@@ -19,7 +19,8 @@
       <guid>https://Anvil-Late.github.io/Portfolio/post/project-7/</guid>
       <description>This project&amp;rsquo;s goal is to build a model that can classify consumer goods based on pictures and descriptions.
 I approached this project with basic and advanced methods for both NLP and image recognition.
-For basic methods, I used feature extractions and clustering, whereas for advanced methods I used supervized neural networks Moreover, we are provided a small dataset that forces us to either used dimension reduction for clustring algorithms or transfer learning for neural networks.</description>
+For basic methods, I used feature extractions and clustering, whereas for advanced methods I used supervised neural networks.
+Moreover, the dataset we were provided with was small, which made it necessary to either use dimension reduction for clustering algorithms or transfer learning for neural networks.</description>
     </item>
     
   </channel>
