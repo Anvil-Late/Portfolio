@@ -18,7 +18,7 @@
       
       <guid>https://Anvil-Late.github.io/Portfolio/post/project-7/</guid>
       <description>This project is my second take on the &amp;ldquo;Real or Not ? NLP with Disaster Tweets&amp;rdquo; Kaggle competition, in which we are provided a list of tweets that can either be about a disaster or not. You can find my first attempt here
-Last time, I was a rather junior data scientist. I focused heavily on feature engineering and bags of words to put into machine learning model, and managed to obtain a decent score of 78% with ensemble models.</description>
+Last time, I was a rather junior data scientist. I focused heavily on feature engineering and bags of words to put into machine learning models, and managed to obtain a decent score of 78% with ensemble models.</description>
     </item>
     
   </channel>
