@@ -21,9 +21,54 @@
     </item>
     
     <item>
+      <title>Deep learning</title>
+      <link>https://Anvil-Late.github.io/Portfolio/tags/deep-learning/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keras</title>
+      <link>https://Anvil-Late.github.io/Portfolio/tags/keras/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/tags/keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural network</title>
+      <link>https://Anvil-Late.github.io/Portfolio/tags/neural-network/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/tags/neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://Anvil-Late.github.io/Portfolio/tags/nlp/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>https://Anvil-Late.github.io/Portfolio/tags/tensorflow/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine Learning</title>
       <link>https://Anvil-Late.github.io/Portfolio/tags/machine-learning/</link>
-      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://Anvil-Late.github.io/Portfolio/tags/machine-learning/</guid>
       <description></description>
@@ -32,7 +77,7 @@
     <item>
       <title>Random Forest</title>
       <link>https://Anvil-Late.github.io/Portfolio/tags/random-forest/</link>
-      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://Anvil-Late.github.io/Portfolio/tags/random-forest/</guid>
       <description></description>
@@ -41,7 +86,7 @@
     <item>
       <title>SVM</title>
       <link>https://Anvil-Late.github.io/Portfolio/tags/svm/</link>
-      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://Anvil-Late.github.io/Portfolio/tags/svm/</guid>
       <description></description>
@@ -50,7 +95,7 @@
     <item>
       <title>XGBoost</title>
       <link>https://Anvil-Late.github.io/Portfolio/tags/xgboost/</link>
-      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://Anvil-Late.github.io/Portfolio/tags/xgboost/</guid>
       <description></description>
@@ -89,15 +134,6 @@
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://Anvil-Late.github.io/Portfolio/tags/ridge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NLP</title>
-      <link>https://Anvil-Late.github.io/Portfolio/tags/nlp/</link>
-      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://Anvil-Late.github.io/Portfolio/tags/nlp/</guid>
       <description></description>
     </item>
     
