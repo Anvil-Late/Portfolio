@@ -21,5 +21,16 @@
 Last time, I was a rather junior data scientist. I focused heavily on feature engineering and bags of words to put into machine learning models, and managed to obtain a decent score of 78% with ensemble models.</description>
     </item>
     
+    <item>
+      <title>Project 8 : NLP and Image processing : Automatic classification of website products</title>
+      <link>https://Anvil-Late.github.io/Portfolio/post/project-8/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/post/project-8/</guid>
+      <description>This project&amp;rsquo;s goal is to build a model that can classify consumer goods based on pictures and descriptions.
+I approached this project with basic and advanced methods for both NLP and image recognition.
+For basic methods, I used feature extractions and clustering, whereas for advanced methods I used supervized neural networks Moreover, we are provided a small dataset that forces us to either used dimension reduction for clustring algorithms or transfer learning for neural networks.</description>
+    </item>
+    
   </channel>
 </rss>
