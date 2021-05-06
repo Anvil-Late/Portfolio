@@ -18,11 +18,11 @@
       
       <guid>https://Anvil-Late.github.io/Portfolio/post/project-8/</guid>
       <description>This project is my second take on the &amp;ldquo;Real or Not ? NLP with Disaster Tweets&amp;rdquo; Kaggle competition, in which we are provided a list of tweets that can either be about a disaster or not. You can find my first attempt here
-Last time, I was a rather new to data science. I focused heavily on feature engineering and bags of words to put into machine learning models and managed to obtain a decent score of 78% with ensemble models.</description>
+Last time, I was rather new to data science. I focused heavily on feature engineering and bags of words to put into machine learning models and managed to obtain a decent score of 78% with ensemble models.</description>
     </item>
     
     <item>
-      <title>Project 7 : NLP and Image processing : Automatic classification of website products</title>
+      <title>Project 7 : NLP and Image processing - Automatic classification of website products (Deep Learning and Clustering)</title>
       <link>https://Anvil-Late.github.io/Portfolio/post/project-7/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       
