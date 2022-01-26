@@ -3,6 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://Anvil-Late.github.io/Portfolio/</loc>
+    <lastmod>2022-01-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Anvil-Late.github.io/Portfolio/tags/kubeflow/</loc>
+    <lastmod>2022-01-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Anvil-Late.github.io/Portfolio/tags/machine-learning/</loc>
+    <lastmod>2022-01-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Anvil-Late.github.io/Portfolio/post/article-2/</loc>
+    <lastmod>2022-01-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Anvil-Late.github.io/Portfolio/tags/mlops/</loc>
+    <lastmod>2022-01-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://Anvil-Late.github.io/Portfolio/tags/</loc>
+    <lastmod>2022-01-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://Anvil-Late.github.io/Portfolio/tags/anomaly/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -17,28 +59,7 @@
   </url>
   
   <url>
-    <loc>https://Anvil-Late.github.io/Portfolio/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://Anvil-Late.github.io/Portfolio/tags/machine-learning/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://Anvil-Late.github.io/Portfolio/post/article-1/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://Anvil-Late.github.io/Portfolio/tags/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
