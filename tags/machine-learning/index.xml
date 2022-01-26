@@ -6,10 +6,20 @@
     <description>Recent content in Machine learning on Antoine VILLATTE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://Anvil-Late.github.io/Portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Medium article - Basic Kubeflow Pipeline From Scratch</title>
+      <link>https://Anvil-Late.github.io/Portfolio/post/article-2/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/post/article-2/</guid>
+      <description>In this article, I go through every step that is necessary to have a functioning pipeline :
+ Create a Kuberneter cluster Install Kubeflow Create a container registry Build a container image and push it to your registry Give Kubeflow access to your S3 buckets Create Kubeflow components with input and output artifacts Create a Kubeflow pipeline, upload it and run it  This article has been pee-reviewed and published in &amp;ldquo;Towards Data Science&amp;rdquo;.</description>
+    </item>
     
     <item>
       <title>Medium article - Anomaly detection in a Machine Learning scoring model</title>
@@ -17,7 +27,7 @@
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://Anvil-Late.github.io/Portfolio/post/article-1/</guid>
-      <description>This is an article I posted on Medium that deals with anomaly detection for scoring models&amp;rsquo; outputs
+      <description>This is an article I posted on Medium that deals with anomaly detection for scoring models&amp;rsquo; outputs.
 Link to the article</description>
     </item>
     

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kubeflow on Antoine VILLATTE</title>
+    <link>https://Anvil-Late.github.io/Portfolio/tags/kubeflow/</link>
+    <description>Recent content in Kubeflow on Antoine VILLATTE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jan 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://Anvil-Late.github.io/Portfolio/tags/kubeflow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Medium article - Basic Kubeflow Pipeline From Scratch</title>
+      <link>https://Anvil-Late.github.io/Portfolio/post/article-2/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/post/article-2/</guid>
+      <description>In this article, I go through every step that is necessary to have a functioning pipeline :
+ Create a Kuberneter cluster Install Kubeflow Create a container registry Build a container image and push it to your registry Give Kubeflow access to your S3 buckets Create Kubeflow components with input and output artifacts Create a Kubeflow pipeline, upload it and run it  This article has been pee-reviewed and published in &amp;ldquo;Towards Data Science&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
