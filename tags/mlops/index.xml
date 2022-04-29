@@ -6,10 +6,20 @@
     <description>Recent content in MLOPS on Antoine VILLATTE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://Anvil-Late.github.io/Portfolio/tags/mlops/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TDS article - Kubeflow MLOps : Automatic pipeline deployment with CI / CD / CT</title>
+      <link>https://Anvil-Late.github.io/Portfolio/post/article-3/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/post/article-3/</guid>
+      <description>In this second Kubeflow article, I build upon what was created in the first one and :
+ Make an advanced pipeline that contains pre-processing, model building, inference and performance evaluation Use GitHub Actions to perform CI and CD Connect GitHub Actions to the Kubeflow endpoint and launch the updated pipeline  This article has been peer-reviewed and published in &amp;ldquo;Towards Data Science&amp;rdquo;. Kubeflow being new and its documentation being sparse for environments other than GCP made this article a rapid success, with more than 2000 reads in the first 2 days.</description>
+    </item>
     
     <item>
       <title>Medium article - Basic Kubeflow Pipeline From Scratch</title>
@@ -18,17 +28,7 @@
       
       <guid>https://Anvil-Late.github.io/Portfolio/post/article-2/</guid>
       <description>In this article, I go through every step that is necessary to have a functioning pipeline :
- Create a Kuberneter cluster Install Kubeflow Create a container registry Build a container image and push it to your registry Give Kubeflow access to your S3 buckets Create Kubeflow components with input and output artifacts Create a Kubeflow pipeline, upload it and run it  This article has been pee-reviewed and published in &amp;ldquo;Towards Data Science&amp;rdquo;.</description>
-    </item>
-    
-    <item>
-      <title>TDS article - Kubeflow MLOps : Automatic pipeline deployment with CI / CD / CT</title>
-      <link>https://Anvil-Late.github.io/Portfolio/post/article-3/</link>
-      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://Anvil-Late.github.io/Portfolio/post/article-3/</guid>
-      <description>In this second Kubeflow articles, I build upon what was created in the first one and :
- Make an advanced pipeline that contains pre-processing, model building, inference and performance evaluation Use GitHub Actions to perform CI and CD Connect GitHub Actions to the Kubeflow endpoint and launch the updated pipeline  This article has been pee-reviewed and published in &amp;ldquo;Towards Data Science&amp;rdquo;. Kubeflow being new and its documentation being sparse for environments other than GCP made this article a rapid success, with more than 2000 reads in the first 2 days.</description>
+ Create a Kuberneter cluster Install Kubeflow Create a container registry Build a container image and push it to your registry Give Kubeflow access to your S3 buckets Create Kubeflow components with input and output artifacts Create a Kubeflow pipeline, upload it and run it  This article has been peer-reviewed and published in &amp;ldquo;Towards Data Science&amp;rdquo;.</description>
     </item>
     
   </channel>
