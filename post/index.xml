@@ -22,6 +22,16 @@
     </item>
     
     <item>
+      <title>TDS article - Kubeflow MLOps : Automatic pipeline deployment with CI / CD / CT</title>
+      <link>https://Anvil-Late.github.io/Portfolio/post/article-3/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Anvil-Late.github.io/Portfolio/post/article-3/</guid>
+      <description>In this second Kubeflow articles, I build upon what was created in the first one and :
+ Make an advanced pipeline that contains pre-processing, model building, inference and performance evaluation Use GitHub Actions to perform CI and CD Connect GitHub Actions to the Kubeflow endpoint and launch the updated pipeline  This article has been pee-reviewed and published in &amp;ldquo;Towards Data Science&amp;rdquo;. Kubeflow being new and its documentation being sparse for environments other than GCP made this article a rapid success, with more than 2000 reads in the first 2 days.</description>
+    </item>
+    
+    <item>
       <title>Medium article - Anomaly detection in a Machine Learning scoring model</title>
       <link>https://Anvil-Late.github.io/Portfolio/post/article-1/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
